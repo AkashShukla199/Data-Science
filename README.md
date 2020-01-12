@@ -1,2 +1,2 @@
 # Data-Science
-project fro Datacamp
+project from Datacamp
